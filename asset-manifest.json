@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mort/static/css/main.79d19d76.css",
+    "main.js": "/mort/static/js/main.cc52e2b4.js",
+    "static/js/453.6efdaf30.chunk.js": "/mort/static/js/453.6efdaf30.chunk.js",
+    "index.html": "/mort/index.html",
+    "main.79d19d76.css.map": "/mort/static/css/main.79d19d76.css.map",
+    "main.cc52e2b4.js.map": "/mort/static/js/main.cc52e2b4.js.map",
+    "453.6efdaf30.chunk.js.map": "/mort/static/js/453.6efdaf30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.cc52e2b4.js"
+  ]
+}
