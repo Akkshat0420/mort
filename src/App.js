@@ -1,25 +1,40 @@
-import logo from './logo.svg';
-import './App.css';
 
+//import ReactDOM from 'react-dom';
+
+import React from 'react';
+import HomePage from './components/homepage';
+//import LeanCanvas from './components/lean';
+//import RoutePage from './components/root';
+
+//import Login from './components/login';
+//import RoutePage from './components/root';
+
+
+
+
+// Import your components
+//import RegisterStudent from './RegisterStudent';
+//import Signup from './Signup';
+
+//import LeanCanvas from './components/lean';
+//import RoutePage from './components/root';
+//import Profile from './Profile';
+
+// Define the routes using createBrowserRouter
+
+
+// Use RouterProvider at the root of your application
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    
+ return(
+    <div  className='App'>
+     
+    <HomePage/>
+   
+     
     </div>
   );
 }
+
 
 export default App;
